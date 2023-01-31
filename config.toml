@@ -1,0 +1,9 @@
+baseURL = 'https://matuushos.github.io/'
+languageCode = 'en-us'
+title = 'MatuushOS Docs'
+theme = 'compose'
+
+[params]
+codeLineNumbers = true # Shows line numbers for all code blocks globally.
+centerLogo = true
+
